@@ -1,1 +1,27 @@
 # top25-React-tools
+## Отличная коллекция полезных ресурсов и инструментов при работе с React.
+- [useHooks:](https://usehooks.com/) *коллекция пользовательских хуков*
+- [Create React App:](https://github.com/facebook/create-react-app/)
+- [Webpack Bundle Analyzer:](https://github.com/webpack-contrib/webpack-bundle-analyzer/) *плагин для сборщика вебпак, который поможет проанализировать сборку - зависимости и их вес*
+- [Bundlephobia:](https://bundlephobia.com/) *можно подобрать оптимальный набор легковесных зависимостей*
+- [Gatsby:](https://www.gatsbyjs.com/) *быстрый генератор статических сайтов*
+- [Next.js:](https://nextjs.org/) *минималистичный фреймворк для серверного рендеринга реакт-приложений*
+- [React Developer Tools:](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=ru) *браузерное расширение*
+- [Redux Dev Tools:](https://github.com/reduxjs/redux-devtools)
+- [React-Sight:](https://github.com/React-Sight/React-Sight) *интерактивное представление дерева иерархии компонентов приложения с поддержкой React router и Redux*
+- [Why Did You Render:](https://github.com/welldone-software/why-did-you-render/) *monkey patches - добавляется в приложение в виде хука либо в виде middleware - в dev моде при отладке заполняет консоль сообщениями: срабатывает каждый раз, когда видит произошедший ререндеринг компонента, который можно было бы избежать. Сами сообщения информативные и обучающие, читая их можно лучше разобраться с внутренней работой React, в частности, с процессом рендеринга*
+- [Storybook:](https://storybook.js.org/) *хранение коллекций*
+- [React Cosmos:](https://reactcosmos.org/) *хранение коллекций*
+- [Material-UI:](https://material-ui.com/) *библиотека готовых компонентов*
+- [Ant-design:](https://ant.design/ ) *библиотека готовых компонентов*
+- [Semantic UI React:](https://react.semantic-ui.com/) *библиотека готовых компонентов*
+- [React-Bootstrap:](https://github.com/react-bootstrap/react-bootstrap) *библиотека готовых компонентов*
+- [Reactstrap:](https://github.com/reactstrap/reactstrap) *библиотека готовых компонентов*
+- [React Bits:](https://vasanthk.gitbooks.io/react-bits/) *ресурс справочник: коллекция паттернов, техник, советов по работе с библиотекой React. Best practices*
+- [Awesome React:](https://github.com/enaqx/awesome-react) *справочник*
+- [React Starter Projects:](https://www.javascriptstuff.com/react-starter-projects/) *справочник. Можно клонировать готовые конфигурации*
+- [Devhints React.js cheatsheet:](https://devhints.io/react/) *портал шпаргалок - хорошо структурирован и оформлен*
+- [CodeSandbox:](https://codesandbox.io/) *онлайн редактор кода*
+- [ReactIDE:](http://reactide.io/)
+- [React-Proto:](https://react-proto.github.io/react-proto/) *React prototyping for designers and developers. Quickly create, drag, and resize components to create a visual representaion of your application.*
+- [Proton Native:](https://proton-native.js.org/#/) *альтернатива Electron*
